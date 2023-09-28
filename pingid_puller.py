@@ -10,7 +10,7 @@ import os
 from datetime import datetime, timedelta
 
 help_desc = '''
-Perform CS hosts details queries in order to produce a file for a splunk input
+Perform pingid report queries in order to produce files for a splunk input
 
 Config file must be filled with a stanza specified as --account %PUT_A_NAME_HERE%
 [%PUT_A_NAME_HERE%]
