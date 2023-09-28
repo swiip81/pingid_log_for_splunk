@@ -1,0 +1,1 @@
+* * * * * /opt/splunk/pingid/pingid_puller.sh 2>&1 >> /opt/splunk/pingid/pingid_puller.log
